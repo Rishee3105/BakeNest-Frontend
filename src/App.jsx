@@ -17,7 +17,7 @@ import AddItems from "./HomeBaker/AddItems/AddItems.jsx";
 import ListItems from "./HomeBaker/ListItems/ListItems.jsx";
 import Profile from "./HomeUser/Profile/Profile.jsx";
 import UserOrder from "./HomeUser/UserOrders/UserOrder.jsx";
-import Bakerprofile from "../../frontend/src/HomeBaker/BakerProfile/Bakerprofile.jsx";
+import Bakerprofile from "../src/HomeBaker/BakerProfile/Bakerprofile.jsx";
 import MyOrders from "./HomeUser/Myorder/Myorder.jsx";
 import ResetPassword from "./pages/Resetpass/Resetpass.jsx";
 import ForgetPassword from "./pages/Forgetpass/Forgetpass.jsx";
